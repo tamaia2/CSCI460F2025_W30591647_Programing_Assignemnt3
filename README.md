@@ -10,5 +10,4 @@ CSCI460 Fall 2025 Programming Project III: Applies K-means clustering to heart f
 - Preprocessing pipeline for clinical features
 
 ## Quick Start
-pip install -r requirements.txt
 python clustering.py
